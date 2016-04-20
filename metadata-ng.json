@@ -17,7 +17,7 @@
 	},
 	"source": {
 		"scmType": "git",
-		"url": "https://github.com/IBM-Bluemix/ruby-sinatra-helloworld",
+		"url": "https://github.com/IBM-Bluemix/ruby-sinatra-helloworld.git",
 		"appPath": ""
 	},
 	"docURL": "/#starters/rubysinatra/index.html",
