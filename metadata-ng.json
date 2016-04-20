@@ -1,0 +1,64 @@
+{
+	"name": "Ruby Sinatra",
+	"services": [],
+	"defaultMemory": 256,
+	"description": "Develop a Ruby web application using the Sinatra framework.",
+	"type": "web",
+	"version": "1.0",
+	"smallIcon": "i_rbs_24.png",
+	"icon": "i_rbs_32.png",
+	"largeIcon": "i_rbs_50.png",
+	"featuredIcon": "i_rbs_64.png",
+	"system_tags": ["ibm_community"],
+	"categories": ["boilerplate"],
+	"runtime_template_id": "rubyHelloWorld",
+	"metadata": {
+		"termsUrl": "https://www.ibm.com/software/sla/sladb.nsf/sla/bm-6626-01"
+	},
+	"source": {
+		"scmType": "git",
+		"url": "https://github.com/IBM-Bluemix/ruby-sinatra-helloworld",
+		"appPath": ""
+	},
+	"docURL": "/#starters/rubysinatra/index.html",
+	"extra": {
+		"i18n": {
+			"de": {
+				"name": "Ruby Sinatra",
+				"description": "Eine Ruby-Webanwendung mithilfe des Sinatra-Frameworks entwickeln."
+			},
+			"es": {
+				"name": "Ruby Sinatra",
+				"description": "Desarrolle una aplicación web Ruby utilizando la infraestructura Sinatra."
+			},
+			"fr": {
+				"name": "Ruby Sinatra",
+				"description": "Développez une application Web Ruby avec l'infrastructure Sinatra."
+			},
+			"it": {
+				"name": "Ruby Sinatra",
+				"description": "Sviluppa un'applicazione Web Ruby attraverso il framework Sinatra."
+			},
+			"ja": {
+				"name": "Ruby Sinatra",
+				"description": "Sinatra フレームワークを使用して Ruby Web アプリケーションを開発します。"
+			},
+			"ko": {
+				"name": "Ruby Sinatra",
+				"description": "Sinatra 프레임워크를 사용하여 Ruby 웹 애플리케이션을 개발합니다."
+			},
+			"pt-BR": {
+				"name": "Ruby Sinatra",
+				"description": "Desenvolva um aplicativo da web Ruby usando a estrutura Sinatra."
+			},
+			"zh-Hans": {
+				"name": "Ruby Sinatra",
+				"description": "使用 Sinatra 框架开发 Ruby Web 应用程序。"
+			},
+			"zh-Hant": {
+				"name": "Ruby Sinatra",
+				"description": "使用 Sinatra 架構開發 Ruby Web 應用程式。"
+			}
+		}
+	}
+}
